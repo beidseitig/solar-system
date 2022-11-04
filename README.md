@@ -1,16 +1,23 @@
-# 🚧 README em construção 🚧
+# Solar System
 
-<!-- Olá, Tryber!
+## Sobre o projeto:
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
+Projeto onde foi desenvolvida uma página com um modelo do sistema solar, além de uma lista de cards com informações sobre algumas das missões espaciais mais conhecidas
 
-É essencial que você preencha esse documento por conta própria, ok?
+## Desenvolvimento:
 
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
+Aplicação desenvolvida em `React` com `JavaScript` com a criação de `componentes de classe` e utilizando validação de props nos componentes utilizando `PropTypes`
 
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
+## Instalando Dependências
 
--->
+> Frontend
+```bash
+npm install
+``` 
+## Executando aplicação
+
+* Para rodar o front-end:
+
+  ```
+    cd src/ && npm start
+  ```
